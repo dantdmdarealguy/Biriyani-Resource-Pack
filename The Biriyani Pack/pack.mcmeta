@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "The ultimate resource pack crafted for the legendary Biriyani Van crew — Primand, Vai, and Clabe! \n§7Author: §8AerobicMaple80§8"
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 88
+    },
+    "description": "The ultimate resource pack crafted for Indian cuisine enjoyers worldwide! \n§7Author: §8AerobicMaple80§8"
   }
 }
