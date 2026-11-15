@@ -3,8 +3,10 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 88
+      "max_inclusive": 97
     },
+    "min_format": 15,
+    "max_format": 97,
     "description": "The ultimate resource pack crafted for Indian cuisine enjoyers worldwide! \n§7Author: §8AerobicMaple80§8"
   }
 }
